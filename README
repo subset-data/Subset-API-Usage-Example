@@ -1,0 +1,10 @@
+You can use this simple example to try out Subset's API with OpenAI functions and GPT
+
+fill out a .env file with the host information and API key from Subset, as well as OpenAI
+
+pip install -r requirements.txt
+
+python example.py
+
+Reach out for help or support to support@subsetdata.com, or by pinging us via Intercom int the lower left of the tool.
+
